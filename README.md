@@ -1,0 +1,2 @@
+# Predictive-model-for-accident-severity-using-the-US-Accidents-Dataset
+The aim of this project is to build a predictive model for accident severity using the US Accidents Dataset. By applying Bayesian Logistic Regression and Neural Networks, this project will compare the strengths and weaknesses of each technique in predicting accident severity based on environmental, traffic, and temporal factors.
